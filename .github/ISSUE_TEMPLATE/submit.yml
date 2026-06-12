@@ -1,0 +1,24 @@
+name: Submit a skill or MCP server
+description: Get your Israeli agent skill / MCP server listed
+title: "[Submit]: "
+labels: [submission]
+body:
+  - type: input
+    id: repo
+    attributes:
+      label: GitHub repository URL
+    validations:
+      required: true
+  - type: input
+    id: description
+    attributes:
+      label: One-line description (English or Hebrew)
+    validations:
+      required: true
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type
+      options: ["Agent skill", "MCP server", "RTL / display tool"]
+    validations:
+      required: true

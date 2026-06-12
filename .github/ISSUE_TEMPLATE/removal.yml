@@ -1,0 +1,17 @@
+name: Correction or removal request
+description: Fix attribution, update a link, or remove your project
+title: "[Fix]: "
+labels: [correction]
+body:
+  - type: input
+    id: entry
+    attributes:
+      label: Which entry?
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What should change?
+    validations:
+      required: true
