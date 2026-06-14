@@ -3,6 +3,8 @@
 
 > Agent skills & MCP servers for the Israeli market — tax, invoicing, government APIs, Hebrew/RTL, emergency, and business operations. Every entry linked to its creator.
 
+🔎 **Browse the searchable directory at [skillim.co.il](https://skillim.co.il/).**
+
 Maintained by [skillim-hub](https://github.com/skillim-hub). Validation scores coming soon: every entry will carry a reproducible benchmark result.
 
 **Contributing:** open an issue or PR on this repo to add or fix an entry. We index and link; code stays with its author.
@@ -638,4 +640,4 @@ Maintained by [skillim-hub](https://github.com/skillim-hub). Validation scores c
 
 ---
 
-*Last updated 2026-06-14. Found something missing or wrong? Open an issue or PR.*
+*Last updated 2026-06-15. Found something missing or wrong? Open an issue or PR.*
